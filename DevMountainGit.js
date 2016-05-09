@@ -1,2 +1,2 @@
-var brandon = "Is Awesome!";
-alert(brandon);
+var tara = "Is Awesome!";
+alert(tara);
